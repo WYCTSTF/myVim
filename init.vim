@@ -49,3 +49,4 @@ set tabstop=2
 set shiftwidth=2
 syntax on
 set vb t_vb=
+" 更新脚本测试
